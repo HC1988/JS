@@ -27,7 +27,7 @@
                                       false, false ,false, 0/*left*/, null);
 
         first.target.dispatchEvent(simulatedEvent);
-        event.preventDefault();
+        event.preventDefault();//sometimes you can remove this order.why? sorry I don't konw now.
     }
 
     function initTouchHandler(){
