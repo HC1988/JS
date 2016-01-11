@@ -1,7 +1,7 @@
 /**
  * touch event transform to mouse event
  * created by lwang1222@gmail.com 
- * Date in Dec.18 2015
+ * Date on Dec.18 2015
  */
 ;
 (function(){
