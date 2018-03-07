@@ -51,3 +51,5 @@ var sizeof = function(str, charset){
     }  
     return total;  
 }
+
+原文地址：http://blog.csdn.net/mergerly/article/details/49493659
